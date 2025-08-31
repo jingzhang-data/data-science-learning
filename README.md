@@ -11,7 +11,7 @@ From Senior Business Analyst to Data Scientist
 
 ## 📚 Learning Plan | 学习计划
 - **Programming**: Python (pandas, numpy, matplotlib, seaborn), SQL
-- **Statistics & Math**: Probability, Hypothesis Testing, Regression
+- **Statistics & Math**: Probability, Hypothesis Testing, Regression，A/B test
 - **Machine Learning**: scikit-learn, XGBoost, LightGBM
 - **Data Visualization**: Tableau, Power BI, Plotly
 - **Cloud & Big Data** (加分项): AWS Sagemaker, Spark
@@ -51,6 +51,7 @@ From Senior Business Analyst to Data Scientist
 
 ---
 📅 Progress Log | 学习进度
+
 2025-09-01: 创建仓库 & 制定学习计划
 
 2025-09-05: 完成 Titanic 入门项目
@@ -60,7 +61,7 @@ From Senior Business Analyst to Data Scientist
 📌 About Me
 🎯 目标：Data Scientist 转型成功
 
-💼 背景：高级业务分析师，擅长数据建模与跨团队协作
+💼 背景：大厂境外业务资深商业分析师，擅长数据建模与跨团队协作
 
 🌐 LinkedIn: www.linkedin.com/in/jingzhangcu/ 
 
